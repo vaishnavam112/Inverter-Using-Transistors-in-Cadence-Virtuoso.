@@ -37,10 +37,31 @@ After completing the layout, you can perform post-layout simulations to verify t
 Once the post-layout simulations are successful, you can proceed with further verification steps, including Design Rule Checking (DRC) and Layout vs. Schematic (LVS) checks, to ensure the layout matches the schematic and satisfies the manufacturing requirements. If everything is in order, you can generate the final design files for tape-out, which involves sending the design to the foundry for fabrication.
 
 
-![Downloads](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/1c97985d-9e47-4cd7-8659-9af00ef7ae76)
 
 
-![Screenshot 2023-07-10 231003](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/780ddfad-5064-4b4b-b68f-eac6cbdcec65)
+# Inverter Simulation:
+![1676308560299](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/963e77ab-650d-4c90-bd85-d6cbf28e1e24)
+
+
+
+
+
+# Inverter Schematic Layout:
+![1676308562476](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/1154b910-fe63-45b3-a43d-d9e83f25531a)
+
+
+
+
+
+# Graph: Transient and DC Response:
+![1676308560385](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/ed23a66e-cadb-408a-b4d2-5ef7a151c99b)
+
+
+
+
+
+# Output:
+![1676308551777](https://github.com/vaishnavam112/Inverter-Using-Transistors-in-Cadence-Virtuoso./assets/137429888/638156e1-61f3-4ced-a0a2-e4f05331ac67)
 
 
 
